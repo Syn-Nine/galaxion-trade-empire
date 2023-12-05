@@ -1,0 +1,8 @@
+// entity id, component, component data
+//0,billboard,assets/iso-tileset.png
+//0,visible,true
+//0,position,256,256
+//0,scale,512,512
+//0,color,1.0,1.0,1.0
+
+
