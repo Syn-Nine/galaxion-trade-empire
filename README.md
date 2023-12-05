@@ -12,6 +12,8 @@ Please let me know if you find any bugs or have feedback! I have a dedicated cha
 ![](https://github.com/Syn-Nine/galaxion-trade-empire/blob/main/screenshots/station.png)
 
 ### How to Play:
+Improve your planets, explore, trade goods, build your armada, conquer other houses, repeat.
+
 Planets
 - Population Menu - Use this menu to determine the allocation of population to different jobs, like making food, labor work, and scientific research.
 - Manufacturing Menu - Use this menu to allocate manufacturing capacity to different areas. These goods can be used for trading or building fighter craft.
