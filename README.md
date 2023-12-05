@@ -28,11 +28,17 @@ Stations
 Galaxy View
 - The galaxy view allows navigation of your freighter to other planets and stations.
 - From this view you can also access your cargo status or attack planets.
+- Hold SPACE and move the mouse to pan.
+- Use scroll wheel to zoom.
 
 Combat
 - When you attack a planet, the royal house controlling the planet will attempt to defend their territory.
 - You can demand or offer a 10% tribute of freighter holds to end the attack early without surrender.
 - Surrender yields 50% of freighter holds. If the defender surrenders you take control of the planet.
+- Click the cell location to move/attack. The further the target, the lower probability of hit.
+- Hotkeys: F-move forward, SPACE-skip turn, A-target weakest nearby enemy.
+- You can click the auto button to turn on auto-battle.
+- Landing a hit on the enemy frieghter will force surrender.
 
 Capture all planets to win the game.
 
