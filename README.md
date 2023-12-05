@@ -45,4 +45,4 @@ Capture all planets to win the game.
 Thanks for playing!
 
 Art Credit:
-- This game was made for a gamejam during the month of October 2023 and uses background images that were created at open.ai to speed up prototyping. These images are not copyrightable. All of the small sprite graphics were created by me. If I ever release the game commercially I'll make sure to replace the AI art with human made art.
+- This game was made for a gamejam during the month of October 2023 and uses background images and avatars that were created at open.ai to speed up prototyping. These images are not copyrightable. All of the small sprite graphics were created by me. If I ever release the game commercially I'll make sure to replace the AI art with human made art.
