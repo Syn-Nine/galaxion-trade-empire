@@ -1,6 +1,11 @@
 # galaxion-trade-empire
 Space Trading Game made in Rust
 
+### Feedback & Dev Log
+Please let me know if you find any bugs or have feedback! I have a dedicated channel for game updates and feedback on [my discord](https://discord.gg/rksRVtnF).
+
+I have a running dev log located here: [Syn9's Hideout](https://syn9.thehideoutgames.com/).
+
 ### Screenshots:
 ![](https://github.com/Syn-Nine/galaxion-trade-empire/blob/main/screenshots/battle-combat.gif)
 ![](https://github.com/Syn-Nine/galaxion-trade-empire/blob/main/screenshots/galaxy.png)
@@ -31,4 +36,4 @@ Combat
 
 Capture all planets to win the game.
 
-Please let me know if you find any bugs or have feedback! I have a running dev log located here: [Syn9's Hideout](https://syn9.thehideoutgames.com/).
+Thanks for playing!
