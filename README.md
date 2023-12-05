@@ -36,7 +36,7 @@ Combat
 - You can demand or offer a 10% tribute of freighter holds to end the attack early without surrender.
 - Surrender yields 50% of freighter holds. If the defender surrenders you take control of the planet.
 - Click the cell location to move/attack. The further the target, the lower probability of hit.
-- Hotkeys: F-move forward, SPACE-skip turn, A-target weakest nearby enemy.
+- Hotkeys: F-move forward, SPACE-skip turn, A-attack weakest nearby enemy.
 - You can click the auto button to turn on auto-battle.
 - Landing a hit on the enemy frieghter will force surrender.
 
