@@ -38,7 +38,7 @@ Combat
 - Click the cell location to move/attack. The further the target, the lower probability of hit.
 - Hotkeys: F-move forward, SPACE-skip turn, A-attack weakest nearby enemy.
 - You can click the auto button to turn on auto-battle.
-- Landing a hit on the enemy frieghter will force surrender.
+- Landing a hit on the enemy freighter will force surrender.
 
 Capture all planets to win the game.
 
