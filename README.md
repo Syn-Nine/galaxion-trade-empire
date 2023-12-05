@@ -1,10 +1,10 @@
-# galaxion-trade-empire
-Space Trading Game made in Rust
+# Galaxion Trade Empire
+Space Trading Game made in Rust based on the Trade Wars 2002 BBS game.
+
+This game is in public alpha and is fully playable and winable, but is still under continued development to make it more interesting and fun. I hope to eventually make this web multiplayer.
 
 ### Feedback & Dev Log
-Please let me know if you find any bugs or have feedback! I have a dedicated channel for game updates and feedback on [my discord](https://discord.gg/rksRVtnF).
-
-I have a running dev log located here: [Syn9's Hideout](https://syn9.thehideoutgames.com/).
+Please let me know if you find any bugs or have feedback! I have a dedicated channel for game updates and feedback on [my discord](https://discord.gg/rksRVtnF). I have a running dev log located here: [Syn9's Hideout](https://syn9.thehideoutgames.com/).
 
 ### Screenshots:
 ![](https://github.com/Syn-Nine/galaxion-trade-empire/blob/main/screenshots/battle-combat.gif)
